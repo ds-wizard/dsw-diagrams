@@ -1,7 +1,7 @@
 # DS Wizard - diagrams
 
-[![Creative Commons License](https://i.creativecommons.org/l/by-nd/4.0/88x31.png)](http://creativecommons.org/licenses/by-nd/4.0/)
-
+[![License: CC BY-ND 4.0](https://img.shields.io/badge/License-CC%20BY--ND%204.0-orange.svg)](https://creativecommons.org/licenses/by-nd/4.0/)
+[![DOI](https://zenodo.org/badge/176133781.svg)](https://zenodo.org/badge/latestdoi/176133781)
 
 Diagrams describing visually how the [Data Stewardship Wizard](https://ds-wizard.org) works
 
@@ -27,3 +27,5 @@ There are following diagrams:
 ## License
 
 This work is licensed under a [Creative Commons Attribution-NoDerivatives 4.0 International License](http://creativecommons.org/licenses/by-nd/4.0/)
+
+[![Creative Commons License](https://i.creativecommons.org/l/by-nd/4.0/88x31.png)](http://creativecommons.org/licenses/by-nd/4.0/)
