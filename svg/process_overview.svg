@@ -15,7 +15,10 @@
    version="1.1"
    id="svg7129"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="process_overview.svg">
+   sodipodi:docname="process_overview.svg"
+   inkscape:export-filename="C:\Users\marek\Documents\dsw-diagrams\png\process_overview.png"
+   inkscape:export-xdpi="206"
+   inkscape:export-ydpi="206">
   <title
      id="title852">DSW - Process Overview</title>
   <defs
@@ -27,9 +30,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="-792.6531"
-     inkscape:cy="100.62847"
+     inkscape:zoom="0.7"
+     inkscape:cx="-598.10969"
+     inkscape:cy="211.99126"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -173,7 +176,7 @@
          id="tspan854"
          x="41.703796"
          y="112.99641"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87777805px;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#f15a24;fill-opacity:1;stroke-width:0.26458332">Editor</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.87777805px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#f15a24;fill-opacity:1;stroke-width:0.26458332;">Editor</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.52777767px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#f15a24;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -188,11 +191,11 @@
          id="tspan854-2"
          x="-43.782558"
          y="150.06836"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87777805px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:center;text-anchor:middle;fill:#f15a24;fill-opacity:1;stroke-width:0.26458332">Knowledge</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.87777805px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:center;text-anchor:middle;fill:#f15a24;fill-opacity:1;stroke-width:0.26458332;">Knowledge</tspan><tspan
          sodipodi:role="line"
          x="-43.782558"
          y="162.41559"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87777805px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:center;text-anchor:middle;fill:#f15a24;fill-opacity:1;stroke-width:0.26458332"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.87777805px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:center;text-anchor:middle;fill:#f15a24;fill-opacity:1;stroke-width:0.26458332;"
          id="tspan876">Model</tspan></text>
     <text
        xml:space="preserve"
@@ -208,7 +211,7 @@
          id="tspan854-7"
          x="-16.913101"
          y="73.028053"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87777805px;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#f15a24;fill-opacity:1;stroke-width:0.26458332">Migration</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.87777805px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#f15a24;fill-opacity:1;stroke-width:0.26458332;">Migration</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.52777767px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#f15a24;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -222,7 +225,7 @@
          sodipodi:role="line"
          x="2.7659781"
          y="186.83505"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87777805px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:center;text-anchor:middle;fill:#f15a24;fill-opacity:1;stroke-width:0.26458332"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.87777805px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:center;text-anchor:middle;fill:#f15a24;fill-opacity:1;stroke-width:0.26458332;"
          id="tspan876-3">Questionnaire</tspan></text>
     <text
        xml:space="preserve"
@@ -237,7 +240,7 @@
          sodipodi:role="line"
          x="66.323112"
          y="222.6147"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87777805px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:center;text-anchor:middle;fill:#f15a24;fill-opacity:1;stroke-width:0.26458332"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.87777805px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:center;text-anchor:middle;fill:#f15a24;fill-opacity:1;stroke-width:0.26458332;"
          id="tspan876-3-9">DM Plan</tspan></text>
     <path
        style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -376,6 +379,6 @@
          id="tspan854-1"
          x="130.52736"
          y="-42.307392"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#4d4948;fill-opacity:1;stroke-width:0.26458332">Feedback</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05555534px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#4d4948;fill-opacity:1;stroke-width:0.26458332;">Feedback</tspan></text>
   </g>
 </svg>
